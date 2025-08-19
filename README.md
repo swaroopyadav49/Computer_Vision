@@ -2,7 +2,7 @@
 
 - Create a Project Folder in local Machine.
 
-- Open using Vs code or pycharm.
+- Open Vs code or pycharm.
 
 - Creating a Environment using or opening Terminal.
 
@@ -39,7 +39,7 @@ conda activate cvdev/
 
 - git push -u origin main.
 
-## Imp: Create a addfiles like .gitignore then make python as gitignore == default in GitHub then pull it in local machine by command
+## Imp: Create a addfiles like .gitignore then make python has gitignore == default in GitHub then pull it in local machine by command.
 
 - git pull
  
@@ -48,6 +48,7 @@ conda activate cvdev/
 ## 🔗 requirements.txt
 
  -opencv-python
+
  -e .
 
 
