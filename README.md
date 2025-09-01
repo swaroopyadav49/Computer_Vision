@@ -49,6 +49,10 @@ conda activate cvdev/
 
  -opencv-python
 
+ -numpy
+
+ -matplotlib
+
  -e .
 
 
