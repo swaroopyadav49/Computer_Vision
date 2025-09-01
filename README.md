@@ -14,7 +14,7 @@ conda create -p cvdev python==3.9
 conda activate cvdev/
 ``` 
 
-- make sure working only in activated, New Environment(mlvenv).
+- make sure working only in activated, New Environment(cvdev).
 
 
 🔗 https://github.com/
