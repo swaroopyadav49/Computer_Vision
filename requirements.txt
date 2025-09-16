@@ -3,5 +3,8 @@ numpy
 matplotlib
 tensorflow
 
+scipy
+
+
 
 # -e .
